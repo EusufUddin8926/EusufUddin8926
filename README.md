@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Eusuf uddin
 #### I am a Android Developer in Java and Kotlin
-I am Studying B. Sc. in Computer Science and Engineering at Daffodil International University. I am working with Android Development in Java & Kotlin.
+I am completed B. Sc. in Computer Science and Engineering at Daffodil International University. I am working with Android Development in Java & Kotlin.
 
 Skills: Java / Kotlin / Android / HTML / CSS / Figma
 
