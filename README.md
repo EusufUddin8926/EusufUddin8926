@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eusuf Uddin</h1>
-<h3 align="center">Android Developer | Kotlin | Java | Flutter</h3>
+<h3 align="center">Android Developer | Kotlin | Flutter | Java</h3>
 
 <p align="center">
-Android Developer passionate about building scalable mobile applications using Kotlin, Java, and Flutter.
+Android Developer passionate about building scalable mobile applications using Kotlin, Flutter and Java.
 </p>
 
 ---
@@ -14,15 +14,17 @@ Android Developer passionate about building scalable mobile applications using K
 
 - 💼 **Android Developer at Navana Pharmaceuticals PLC**
 
-- 🔭 Previously worked at  
-  **V2 Technologies Ltd**  
+- 🔭 Previously worked at
   **upay (UCB Fintech Company Limited)**
+  
+- 🔭 Previously worked at
+  **V2 Technologies Ltd**  
 
 - 🌱 Currently improving skills in  
-  **Jetpack Compose, Clean Architecture, Kotlin Multiplatform**
+  **Jetpack Compose, Clean Architecture, Kotlin Multiplatform, Compose Multiplatform, Clean Architure, SDK Implementation**
 
 - 💬 Ask me about  
-  **Android, Kotlin, Flutter, Spring Boot**
+  **Android, Kotlin, Flutter, Java, Spring Boot**
 
 ---
 
@@ -31,7 +33,7 @@ Android Developer passionate about building scalable mobile applications using K
 #### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### Backend
@@ -76,7 +78,7 @@ Android Developer passionate about building scalable mobile applications using K
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/md-eusuf-uddin">
+<a href="https://www.linkedin.com/in/md-eusuf-uddin-70aa9015b">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -89,10 +91,10 @@ Android Developer passionate about building scalable mobile applications using K
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=EusufUddin8926&color=blue)
 
 ---
 
 ### ⚡ Fun Fact
 
-I love building **high performance Android apps** and exploring **modern mobile architecture**.
+I love building **high performance Android and IOS apps** and exploring **modern mobile architecture**.
